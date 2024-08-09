@@ -10,7 +10,7 @@ An improved version of my old CLI Argon2 password manager. Rewritten in C++ and 
 
 ### The UI ###
 The GUI is split into four sections:
-1) Company search area
+1) Company search area.
 2) Constraints file generation area.
 3) Password generation area.
-4) Logger area
+4) Logger area.
